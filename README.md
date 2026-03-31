@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Deepforge Logo" src="./images/deepforge.png" width="" />
+  <img alt="Deepforge Logo" src="./images/deepforge.png" width="250" />
 </p>
 <h1 align="center">
   Deepforge Theme for VS Code
