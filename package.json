@@ -1,0 +1,21 @@
+{
+  "name": "deepforge",
+  "displayName": "Deepforge",
+  "description": "Forge your code in style. Deepforge brings a modern, dark, high-contrast color palette for developers who want clarity and aesthetics.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deepforge",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deepforge-color-theme.json"
+      }
+    ]
+  }
+}
