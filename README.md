@@ -1,3 +1,26 @@
+<p align="center">
+  <img alt="Deepforge Logo" src="./images/deepforge.png" width="100" />
+</p>
+<h1 align="center">
+  Deepforge Theme for VS Code
+</h1>
+<p align="center">
+  A premium dark VS Code theme forged for deep focus, clean contrast, and modern development workflows. <a href="https://halcyon-theme.netlify.com/">VS Code</a>.
+</p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=EdgarAmpiire.deepforge">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/EdgarAmpiire.deepforge?color=brightgreen" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=EdgarAmpiire.deepforge">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/EdgarAmpiire.deepforge" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=EdgarAmpiire.deepforge">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/EdgarAmpiire.deepforge" />
+  </a>
+</p>
+
+![demo](https://raw.githubusercontent.com/EdgarAmpiire/deepforge-theme/master/images/demo.png)
+
 # Deepforge
 
 A premium dark VS Code theme forged for deep focus, clean contrast, and modern development workflows.
