@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Deepforge Logo" src="./images/deepforge.png" width="100" />
+  <img alt="Deepforge Logo" src="./images/deepforge.png" width="" />
 </p>
 <h1 align="center">
   Deepforge Theme for VS Code
@@ -21,6 +21,7 @@
 
 ![demo](https://raw.githubusercontent.com/EdgarAmpiire/deepforge-theme/master/images/demo.png)
 
+
 # Deepforge
 
 A premium dark VS Code theme forged for deep focus, clean contrast, and modern development workflows.
@@ -31,7 +32,7 @@ Designed for developers who value readability, aesthetics, and long coding sessi
 
 ---
 
-## ✨ Features
+## Features
 
 - Deep navy background for reduced eye strain
 - Teal accent highlights for a clean modern feel
@@ -42,7 +43,7 @@ Designed for developers who value readability, aesthetics, and long coding sessi
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
 | Element | Color |
 |---|---|
@@ -59,7 +60,7 @@ Designed for developers who value readability, aesthetics, and long coding sessi
 
 ---
 
-## 🖥 Preview
+## Preview
 
 Deepforge is built to make your code visually clear:
 
@@ -73,10 +74,9 @@ Perfect for backend, frontend, and Rails workflows.
 
 ---
 
-## 🚀 Installation
+## Installation via VS Code Marketplace
 
-### From VS Code Marketplace
-1. Open Extensions
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for **Deepforge**
 3. Click Install
 4. Open Command Palette
@@ -85,7 +85,7 @@ Perfect for backend, frontend, and Rails workflows.
 
 ---
 
-## 🛠 Recommended Settings
+## Recommended Settings
 
 For the best experience:
 
@@ -100,7 +100,7 @@ For the best experience:
 
 ---
 
-## 💡 Best Font Pairings
+## Best Font Pairings
 
 Deepforge pairs beautifully with:
 
@@ -117,7 +117,7 @@ Recommended:
 
 ---
 
-## 👨‍💻 Built By
+## Built By
 
 Crafted with intention by **Edgar Ampiire**
 
@@ -125,6 +125,6 @@ Forged for focus. Built for developers.
 
 ---
 
-## ⭐ Support
+## Support
 
 If you enjoy Deepforge, please leave a rating and share it with other developers.
