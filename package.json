@@ -4,7 +4,11 @@
   "displayName": "Deepforge",
   "icon": "images/deepforge.png",
   "description": "Forge your code in style. Deepforge brings a modern, dark, high-contrast color palette for developers who want clarity and aesthetics.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdgarAmpiire/deepforge-theme"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },

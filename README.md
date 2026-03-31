@@ -5,7 +5,7 @@
   Deepforge Theme for VS Code
 </h1>
 <p align="center">
-  A premium dark VS Code theme forged for deep focus, clean contrast, and modern development workflows. <a href="https://halcyon-theme.netlify.com/">VS Code</a>.
+  A premium dark VS Code theme forged for deep focus, clean contrast, and modern development workflows for <a href="https://deepforge-theme.netlify.app/">VS Code</a>.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=EdgarAmpiire.deepforge">
